@@ -1,4 +1,4 @@
-# Advanced E-Commerce Platform User Manual 🛒📘
+# Advanced E-Commerce Platform User Manual: OOP in C++ for Authentication, Product Management, and Admin Features 🛒📘
 
 Welcome to the **Advanced E-Commerce Platform**! This project demonstrates various features of an e-commerce platform, implemented using **C++** and **Object-Oriented Programming (OOP)** principles. Below you will find an overview of the system’s components and basic operation steps.
 
