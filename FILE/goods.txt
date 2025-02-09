@@ -1,0 +1,4 @@
+M00001,coma,9,10,des,U00001,2022-10-21,onAuction
+M00002,coma,10,2,des,U00001,2022-10-21,onAuction
+M00003,coma1,11,11,des,U00001,2022-10-21,onAuction
+M00004,coma2,12,12,des,U00001,2022-10-21,onAuction
