@@ -1,4 +1,4 @@
-# 🛒 Advanced E-Commerce Platform (C++ OOP)
+# 🛒 ShopLite: A Lightweight Command-Line E-Commerce System in C++
 
 A command-line e-commerce platform built in **C++** using **Object-Oriented Programming**. Supports multiple user roles: **buyers**, **sellers**, and **admins**.
 
